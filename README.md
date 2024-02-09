@@ -1,5 +1,5 @@
-### Hi there 👋
-- I have been studying Computer Engineering at Suleyman Demırel University
+### Hi there Iam Serkan 👋
+I have been studying Computer Engineering at Suleyman Demırel University
 - 🔭 I’m currently working on Devops
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on 
