@@ -1,9 +1,8 @@
 ### Hi there Iam Serkan 👋
 I have been studying Computer Engineering at Suleyman Demırel University
-- 🔭 I’m currently working on Devops
-- 🌱 I’m currently learning Cloud
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Aws
+- 🔭 I’m currently working on Asp.net core
+- 🌱 I’m currently learning .net
+- 👯 I’m looking to collaborate on .net projects 
 
 
 # 💻 Tech Stack:
