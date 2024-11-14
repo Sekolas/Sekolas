@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="burak849" /> </p>
 ### Hi there Iam Serkan 👋
 I have been studying Computer Engineering at Suleyman Demırel University
 - 🔭 I’m currently working on Asp.net core
