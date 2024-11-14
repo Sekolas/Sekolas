@@ -3,7 +3,11 @@ I have been studying Computer Engineering at Suleyman Demırel University
 - 🔭 I’m currently working on Asp.net core
 - 🌱 I’m currently learning .net
 - 👯 I’m looking to collaborate on .net projects 
-<p align="left"> <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="burak849" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anilken/anilken/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anilken/anilken/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anilken/anilken/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
